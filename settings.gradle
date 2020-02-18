@@ -1,0 +1,2 @@
+include ':app', ':shakeviewlib'
+rootProject.name='Shake View Lib'
